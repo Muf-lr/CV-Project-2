@@ -1,0 +1,114 @@
+*{
+    margin: 0% auto;
+    padding:0% auto;
+    
+    
+}
+
+body{
+
+    background-color: white;
+    font-family: 'Andika New Basic', sans-serif;
+
+
+}
+.container{
+
+    max-width: width 1000px; 
+    background-color:#E4F9f5;
+    margin: 0% auto;
+
+}
+header{
+
+}
+
+.Profile-image{
+
+    height: 120px;
+    width: 100px
+    border: 2px solid white;
+    border-radius: 50%;
+    padding: 20px;
+    float: left;
+}
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: #11999e;
+}
+.header-contact{
+    float: right;
+    padding: 30px;
+
+}
+.header-contact a{
+    text-decoration: none;
+    font-weight: bold;
+    color: teal;
+}
+.header-contact a:hover{
+    text-decoration: underline;
+    color: tomato ;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: 3px solid black;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+/*--------------------
+personal section start
+---------------------*/
+#personal-section{
+ 
+}
+.content{
+ margin-bottom: 30px;
+   
+}
+.left-div{
+
+    width: 30%;
+    float: left;
+}
+.right-div{
+    width: 70%;
+    float: right;
+    color: #11999e;
+
+}
+.common-hr{
+    border: 1px solid black;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto;
+}
+
+/*--------------------
+footer section start
+---------------------*/
+.bottom-container{
+
+
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+.bottom-container a{
+
+    color: gold;
+    text-decoration: none;
+    margin: 20px;
+}
+.bottom-container p{
+
+    color: gold;
+    text-decoration: none;
+    margin-top: 20px;
+}
